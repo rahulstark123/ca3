@@ -1,0 +1,63 @@
+.heading{
+    text-align: center;
+}
+
+.topic{
+    text-align: center;
+}
+
+body{
+    background-image: url(lpu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+marquee{
+    background-color: aqua;
+}
+.info{
+    background-color: beige;
+    border-radius: 25px;
+    text-align: center;
+    width: 50%;
+    margin-left: 390px;
+}
+.div1{
+    
+    /* margin-left: 580px; */
+    background-color: bisque;
+    /* width: 20%; */
+    text-align: center;
+    margin: auto;
+    width: 20%;
+    border: red 2px solid;
+    border-radius: 20px
+}
+
+.input_box{
+    margin-left: 10px;
+    /* border-radius: 20px; */
+}
+
+.btn1{
+    /* padding-bottom: ; */
+    margin-bottom: 20px;
+    
+}
+.btn1:hover{
+    background-color: aqua;
+}
+h1{
+    width: fit-content;
+    margin-left: 550px;
+}
+
+img{
+    width: 150px;
+   
+    margin-top: -50px;
+    margin-left: 10px;
+   
+    margin-bottom: 50px;
+}
+/*  */
