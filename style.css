@@ -1,5 +1,6 @@
 .heading{
     text-align: center;
+    margin: auto;
 }
 
 .topic{
@@ -20,11 +21,12 @@ marquee{
     border-radius: 25px;
     text-align: center;
     width: 50%;
-    margin-left: 390px;
+    /* margin-left: 390px; */
+    margin: auto;
 }
 .div1{
     
-    /* margin-left: 580px; */
+    
     background-color: bisque;
     /* width: 20%; */
     text-align: center;
@@ -55,9 +57,10 @@ h1{
 img{
     width: 150px;
    
-    margin-top: -50px;
+    margin-top: -10px;
     margin-left: 10px;
    
     margin-bottom: 50px;
 }
+
 /*  */
